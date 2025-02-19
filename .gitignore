@@ -1,0 +1,6 @@
+.env
+.venv
+/__pycache__
+MOCK_CHAT.json
+MOCK_QUES S.json
+MOCK_QUES U.json

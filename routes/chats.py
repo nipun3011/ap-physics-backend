@@ -1,6 +1,6 @@
 from fastapi import APIRouter
 import json
-from models.chats import Chat
+from schemas import Chat
 from utils.time_funcs import get_current_time
 
 router = APIRouter()

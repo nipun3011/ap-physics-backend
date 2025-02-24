@@ -3,3 +3,7 @@ uvicorn
 python-dotenv
 aiohttp
 azure-cosmos
+passlib
+python-jose[cryptography]
+bcrypt
+python-multipart
